@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++9256" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++9256" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EBC9F293-79F1-4E67-A5D8-248A32E4861F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++9256" : "LOLInfomation\/LOLInfomation\/Lib\/SDWebImage\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LOLInfomation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LOLInfomation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/yangj.5166.info\/1000phone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b3ea32e5-604c-4fca-b5db-6ae888a3e4b3++9256"
+    }
+  ]
+}
